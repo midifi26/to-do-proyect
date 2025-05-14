@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "input": "Hacer la compra",
+    "day": "Lunes",
+    "priority": "Alta",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "input": "Estudiar React",
+    "day": "Martes",
+    "priority": "Alta",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "input": "Ir al gimnasio",
+    "day": "Miércoles",
+    "priority": "Baja",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "input": "Pagar facturas",
+    "day": "Jueves",
+    "priority": "Alta",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "input": "Sacar al perro",
+    "day": "Viernes",
+    "priority": "Baja",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "input": "Revisar correo",
+    "day": "Sábado",
+    "priority": "Baja",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "input": "Llamar a mamá",
+    "day": "Domingo",
+    "priority": "Media",
+    "completed": false
+  }
+]
